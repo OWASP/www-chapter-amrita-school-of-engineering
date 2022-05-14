@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Amrita School of Engineering Chennai
+title: OWASP Amrita School of Engineering 
 tags: ASECHN
 region: Asia
 meetup-group:
@@ -9,7 +9,8 @@ meetup-group:
 ---
 
 ## Welcome
-Include some information here about your chapter
+
+OWASP AMRITA SCHOOL OF ENGINEERING University was founded in May, 2022. We Organise Meetups, Webinar and Conferences. All these events are open, anyone who has interest can participate. We actively create awareness and share knowledge on Cyber Security.   
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
