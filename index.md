@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Amrita School of Engineering 
-tags: ASECHN
+tags: ASECHN, asechn
 region: Asia
 meetup-group:
 
