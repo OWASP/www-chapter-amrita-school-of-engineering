@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Amrita School of Engineering
-tags: example-tag
+title: OWASP Amrita School of Engineering Chennai
+tags: ASECHN
 region: Asia
 meetup-group:
 
