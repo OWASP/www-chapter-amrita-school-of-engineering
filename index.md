@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Amrita School of Engineering 
+title: OWASP Amrita School of Engineering - Chennai
 tags: ASECHN, asechn
 region: Asia
 meetup-group:
