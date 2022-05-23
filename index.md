@@ -24,7 +24,7 @@ If you are willing to give a talk in our chapter, please feel free to drop an em
 
 Please follow the below structure when you mail us. We will get back to you as soon as possible. 
 
-<b> Subject: </b> Call For Speakers - <Your Name>
+<b> Subject: </b> Call For Speakers - (Your Name)
 
 <b> Body: </b>
 
