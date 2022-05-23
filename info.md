@@ -1,5 +1,4 @@
 ### Amrita School of Engineering Information
-* Provide Group Information
 
 ### Social Links
 * [LinkedIn](https://www.linkedin.com/company/owasp-amrita-school-of-engineering)
