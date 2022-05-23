@@ -9,6 +9,8 @@ meetup-group:
 ---
 ## Welcome
 
+![Amrita logo](assets/images/logo/OWASPAmrita.png)
+
 OWASP AMRITA SCHOOL OF ENGINEERING University was founded in May, 2022. We Organise Meetups, Webinar and Conferences. All these events are open, anyone who has interest can participate. We actively create awareness and share knowledge on Cyber Security.   
 
 ## Participation
