@@ -30,8 +30,14 @@ Please follow the below structure when you mail us. We will get back to you as s
 
 Your Name, Current Designation (If Employed), Topic. If you have LinkedIn profile please attach along with mail 
 
+## Upcoming Events
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+| Date        | Event Name |   Venue    | Speaker(s)  | Closed / Open Event  |
+| ----------- | -----------| -----------| ----------- | ---------------------|
+| 30 September 2022 | Hands on session: OWASP TOP 10 Vulnerabilities | Offline (In Campus) | [Melvin John](https://www.linkedin.com/in/melvinjohnl/) | Closed |
+
+
+*Note*: Closed event means students and staff from the respective college can only participate. Open event means anyone can participate.
+
+
 
