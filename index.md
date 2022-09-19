@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Amrita School of Engineering-Chennai - Student Chapter
+title: OWASP Amrita School of Engineering - Chennai - Student Chapter
 tags: ASECHN, asechn
 region: Asia
 meetup-group: owasp-amrita-school-of-engineering-chennai-chapter
