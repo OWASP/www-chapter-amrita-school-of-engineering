@@ -32,6 +32,9 @@ Your Name, Current Designation (If Employed), Topic. If you have LinkedIn profil
 
 ## Upcoming Events
 
+| Date        | Event Name |   Venue    | Speaker(s)  | 
+| ----------- | -----------| -----------| ----------- | 
+| 30 September 2022 | Hands on session: OWASP TOP 10 Vulnerabilities | Offline (In Campus) | [Melvin John](https://www.linkedin.com/in/melvinjohnl/) |
 
 
 
