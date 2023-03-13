@@ -30,12 +30,10 @@ Please follow the below structure when you mail us. We will get back to you as s
 
 Your Name, Current Designation (If Employed), Topic. If you have LinkedIn profile please attach along with mail 
 
-## Upcoming Events
 
-| Date        | Event Name |   Venue    | Speaker(s)  | 
-| ----------- | -----------| -----------| ----------- | 
-| 30 September 2022 | Hands on session: OWASP TOP 10 Vulnerabilities | Offline (In Campus) | [Melvin John](https://www.linkedin.com/in/melvinjohnl/) |
-
+Next Meeting/Event
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
 
 
 
