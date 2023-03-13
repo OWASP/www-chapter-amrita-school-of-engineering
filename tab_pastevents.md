@@ -1,0 +1,14 @@
+---
+title: pastevents
+displaytext: Past Events
+tab: true
+order: 2
+tags: OWASP Amrita School of Engineering - Chennai - Student Chapter
+
+---
+
+## Pasts Events
+
+| Date        | Event Name |   Venue    | Speaker(s)  | 
+| ----------- | -----------| -----------| ----------- | 
+| 30 September 2022 | Hands on session: OWASP TOP 10 Vulnerabilities | Offline (In Campus) | [Melvin John](https://www.linkedin.com/in/melvinjohnl/) |
