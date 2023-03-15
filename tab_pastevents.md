@@ -1,10 +1,10 @@
 ---
 title: pastevents
 displaytext: Past Events
+layout: null
 tab: true
 order: 2
-tags: OWASP Amrita School of Engineering - Chennai - Student Chapter
-
+tags: owasp-ASECHN
 ---
 
 ## Pasts Events

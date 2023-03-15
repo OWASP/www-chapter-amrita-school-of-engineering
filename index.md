@@ -1,13 +1,13 @@
 ---
-
 layout: col-sidebar
 title: OWASP Amrita School of Engineering - Chennai - Student Chapter
-tags: ASECHN, asechn
+tags: owasp-ASECHN
 region: Asia
 meetup-group: owasp-amrita-school-of-engineering-chennai-chapter
-
 ---
+
 ![Amrita logo](assets/images/logo/OWASPAmrita.png)
+
 
 OWASP Amrita School Of Engineering University - Chennai was founded in May, 2022. We Organise Meetups, Webinar, CTFs and Conferences. All these events are open, anyone who has interest can participate. We actively create awareness and share knowledge on Cyber Security.   
 
